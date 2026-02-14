@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
-</p>
+
 
 # [Safetour kerala] 🎯
 
@@ -148,13 +146,13 @@ python app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Screenshot1.png)
+![Screenshot1]Screenshot1.png
 *Add caption explaining what this shows*
 
-![Screenshot2](Screenshot2.png)
+![Screenshot2]Screenshot2.png
 *Add caption explaining what this shows*
 
-![Screenshot3](Screenshot3.png)
+![Screenshot3]Screenshot3.png
 *Add caption explaining what this shows*
 
 #### Diagrams
