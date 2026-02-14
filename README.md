@@ -11,7 +11,7 @@
 - Member 2: Anaswara Sheejo - College of engineering and management punnapra
 
 ### Hosted Project Link
-[https://aishaafsal.github.io/WOMEN-PROT/](https://women-prot.onrender.com)
+https://women-prot.onrender.com
 
 ### Project Description
 Displays popular tourist attractions in Kerala.
